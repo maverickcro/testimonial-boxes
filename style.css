@@ -25,6 +25,8 @@ body {
   text-align: justify;
   position: relative;
   max-width: 768px;
+  height: 350px;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.6);
 }
 
 .fa-quote {
